@@ -1,3 +1,3 @@
-Yello Sapphire <br>
-Rectangle<br>
-6.55K<br>
+Yello Sapphire
+Rectangle
+6.55K
